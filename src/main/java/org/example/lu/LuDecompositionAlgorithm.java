@@ -1,4 +1,6 @@
-package org.example;
+package org.example.lu;
+
+import org.example.FloatMatrix;
 
 public interface LuDecompositionAlgorithm {
 
